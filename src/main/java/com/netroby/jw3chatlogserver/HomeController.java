@@ -4,6 +4,9 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @RestController
+/**
+ * @author ZhiFeng Hu <hufeng1987@gmail.com>
+ */
 public class HomeController {
 
     @RequestMapping("/")
